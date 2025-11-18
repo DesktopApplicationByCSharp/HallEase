@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HallEase.src.UI
 {
-    public partial class BookingForm: Form
+    public partial class ProfileForm: Form
     {
-        public BookingForm()
+        public ProfileForm()
         {
             InitializeComponent();
         }
