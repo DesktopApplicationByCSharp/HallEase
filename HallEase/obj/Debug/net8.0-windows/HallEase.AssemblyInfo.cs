@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HallEase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b4f04a4d78e44fac8daec335b932c665243ce7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b509965226d2d4d670bf91e0d32b87dd88a2ff5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HallEase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HallEase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

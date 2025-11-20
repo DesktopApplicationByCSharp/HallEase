@@ -1,6 +1,6 @@
 ﻿namespace HallEase.src.UI
 {
-    partial class MainDashboard
+    public partial class HallsForm : Form
     {
         /// <summary>
         /// Required designer variable.

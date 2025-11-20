@@ -1,6 +1,6 @@
 ﻿namespace HallEase
 {
-    partial class Form1
+    partial class LoginForm: Form
     {
         /// <summary>
         ///  Required designer variable.
